@@ -5,9 +5,9 @@ phases:
     runtime-versions:
       ruby: 2.6
     commands:
-      - sudo apt-get install ruby-full build-essential zlib1g-dev
       - gem install jekyll -v 3.9.0
       - gem install bundle jekyll-paginate jekyll-sitemap jekyll-gist
+      - bundle install
   build:
     commands:
       - echo "******** Building Jekyll site ********"

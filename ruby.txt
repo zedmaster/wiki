@@ -1,0 +1,5 @@
+Seta o ruby para a versão desejada:
+# gem update --system 3.0.6
+
+
+

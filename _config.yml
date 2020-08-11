@@ -29,7 +29,7 @@ google_analytics:
 wiki_folder: "wiki"
 # (boolean) if you're using github wiki as submodule then this config
 # must be enabled to allow tool buttons to work properly
-use_github_wiki: true
+use_github_wiki: false
 service: github
 # (boolean) Enable "Edit with Prose.io" button in tools, it's a 3rd party
 # service to edit github markdown pages easily
@@ -70,7 +70,7 @@ defaults:
     scope:
       path: "wiki"
     values:
-      permalink: /:basename.html
+      permalink: /:basename
  -
     scope:
       path: "" # an empty string here means all files in the project

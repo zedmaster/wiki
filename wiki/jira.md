@@ -109,15 +109,33 @@ Assim como não existe só um tipo de equipe, um dos aspectos mais interessantes
 
 Há uma série de habilidades e práticas que qualquer bom gerente de produtos precisará desenvolver:
 
+
 **Priorize sem piedade**
+
+Cada uma das funções precisa de um profissional que fará o melhor uso desses recursos para alcançar um objetivo maior, sabendo que nunca agradará a todos.
+
 
 **Conheça o seu terreno**
 
+Um bom gerente de produto aciona os freios e começa a fazer perguntas. Se você está começando a sua carreira na gestão de produtos, use os primeiros meses para falar com o maior número de clientes possível. Fale com o maior número de acionistas internos que conseguir. Entenda o modelo de negócio. Entenda a história. Entenda como as decisões são tomadas. Só assim, então, é que você poderá decidir sozinho.
+
+
 **Dê a sua equipe o poder de tomar suas próprias decisões**
+
+Uma das chaves para um excelente gestão de produtos é dar poder a sua equipe para que ela possa tomar as próprias decisões, ao criar um cérebro compartilhado— ou uma forma de decidir, e um conjunto de critérios para escalá-las. 
+
 
 **Aprenda a influenciar sem autoridade**
 
+Ouvir as pessoas e entender como elas são influenciadas é a primeira parte. Descobrir como fazer com que elas embarquem no seu ponto de vista é a segunda. 
+Entender quais alavancas puxar com qual pessoa é a chave para liderar sem nenhuma autoridade direta.
+
+
 **Desenvolva uma casca grossa**
+
+Se você for bom em explicar a sua decisão, alguém pode até não gostar, só que na maioria das vezes, vão respeitar a forma como você fez isso. E mesmo que não respeitem, um bom gerente de produto acha um jeito de lidar com isso.
 
 
 ## Gerentes de produto excelentes
+
+Em 99% do tempo, produtos excelentes não são criados por um grande pensador somente. Eles são criados por equipes de boas pessoas fazendo trabalhos muito bons. A função do gerente de produto é desenvolver sua maneira única de guiar esse trabalho.

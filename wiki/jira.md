@@ -58,3 +58,66 @@ Criar e ajustar roteiros de produtos é um processo contínuo para desenvolver c
 * Revise os roteiros com frequência e faça ajustes quando os planos mudarem
 * Garanta que todos tenham acesso ao roteiro (e sempre deem uma olhada)
 * Mantenha contato com as partes interessadas em todos os níveis para garantir o alinhamento
+
+
+
+## O que é gerente de produto?
+
+Um gestor de produto é a pessoa que identifica as necessidades do cliente e os maiores objetivos de negócios que um produto ou uma funcionalidade vão suprir, articula o que seria o sucesso para um produto e reúne uma equipe para tornar real a sua visão. 
+
+As pessoas veem o diagrama de Eriksson e acham que os gerentes de produto gerenciam o produto entre todas as três disciplinas (UX, tecnologia e negócios). Realmente, ele está dizendo que os gerentes de produtos precisam equilibrar estas três necessidades e tomar decisões difíceis e fazer trade-offs.
+
+![alt text](https://wac-cdn.atlassian.com/dam/jcr:84dd83c0-f954-477e-b157-b591da20d3cf/0_diagram.png?cdnVersion=1184 "Gerente de Produtos")
+
+
+**As responsabilidades do Gerente de Produto**
+
+Em organizações maiores, por exemplo, os gerentes de produto estão inseridos em equipes de especialistas. Pesquisadores, analistas e profissionais de Marketing gerenciam a execução do dia a dia, elaboram designs, testam protótipos e procuram bugs.
+
+Gerentes de produtos de empresas menores passam menos tempo fazendo com que todo mundo concorde, mas passam mais tempo colocando a mão na massa, quando se trata de definir uma visão e ver através dela.
+
+Tarefas:
+* Entendendo e representando as necessidades dos usuários.
+* Monitorando o mercado e desenvolvendo análises competitivas.
+* Definindo a visão para um produto.
+* Alinhando as partes interessadas à visão do produto. 
+* Priorizando as características e funcionalidades do produto.
+* Criando um cérebro compartilhado em equipes maiores, a fim de ter o poder de tomada de decisão independente.
+
+
+
+**Gerente de produto x Proprietário do produto**
+
+Enquanto um gerente de produto define a direção do produto através de pesquisa, estabelecimento de visões, alinhamento e prioridades, o proprietário do produto deve trabalhar mais próximo do time de desenvolvimento para agir de acordo com as metas que o gerente de produto ajuda a estabelecer.
+
+|Gerente de produto|Proprietário do produto|
+|------------------|-----------------------|
+|Trabalha com as partes interessadas externas|Trabalha com as partes interessadas internas|
+|Ajuda a definir a visão do produto|Ajuda as equipes a agirem conforme a visão compartilhada|
+|Define o que seria o sucesso|Define o plano para alcançar o sucesso|
+|Detém a visão, o marketing e o ROI|Detém o backlog da equipe e o trabalho de realização|
+|Trabalha a nível conceitual|Envolvido nas atividades do dia a dia|
+
+Se a sua equipe está praticando Scrum, mas não tem um gerente de produto, então o proprietário do produto frequentemente acaba adquirindo algumas das responsabilidades do gerente de produto.
+
+As equipes tem ter cuidado ao definir as responsabilidades ou podem correr o risco de acabar voltando ao jeito antigo de desenvolver software, onde um grupo escreve os requisitos e os arremessa sobre a cerca para que a outra equipe pegue e comece a criar. Quando isto acontece, as expectativas ficam desalinhadas, tempo é desperdiçado e a equipe corre o risco de criar produtos ou funcionalidades que não satisfazem as necessidades dos clientes.
+
+
+**As melhores práticas e dicas para ser um excelente gerente de produto**
+
+Assim como não existe só um tipo de equipe, um dos aspectos mais interessantes da função de gerente de produto é que não existe só uma maneira de fazer isso.
+
+Há uma série de habilidades e práticas que qualquer bom gerente de produtos precisará desenvolver:
+
+**Priorize sem piedade**
+
+**Conheça o seu terreno**
+
+**Dê a sua equipe o poder de tomar suas próprias decisões**
+
+**Aprenda a influenciar sem autoridade**
+
+**Desenvolva uma casca grossa**
+
+
+## Gerentes de produto excelentes

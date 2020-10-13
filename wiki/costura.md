@@ -15,11 +15,11 @@
 
 ## Lojas de Tecidos
 
-* [Avimor Tecidos](https://www.avimortecidos.com.br/)
-* [Patchwork Curitiba](https://www.patchworkcuritiba.com.br/)
+* [Avimor Tecidos](https://www.avimortecidos.com.br/) - Online - 3432195157
+* [Patchwork Curitiba](https://www.patchworkcuritiba.com.br/) - Online - 41992870404
 * [Casa Belem](https://www.casabelem.com.br/) - Rua Cândido Lopes, 230 Sala 2 - Curitiba/PR - 41995879897
 * [Armarinhos Nodari](https://www.armarinhosnodari.com.br/) - Rua José Loureiro, 370 - Centro - 41991214142
-* [Armarinhos Mariartes](https://armarinhosmariartes.negocio.site/)
+* [Armarinhos Mariartes](https://armarinhosmariartes.negocio.site/) - Rua Prefeito João Moreira Garcez, 130 - Centro Curitiba -  4130188535
 * [VecTextil](https://www.vectextil.com.br/) - Rua Bartolomeu Lourenço de Gusmão, 4961, loja 2 - Boqueirão, Curitiba - 41988163469
 * [104Tecidos](https://104tecidos.com.br) - Online - 32984681193
 * [Maximus Tecidos](https://www.maximustecidos.com.br/) - Online - 45999110056

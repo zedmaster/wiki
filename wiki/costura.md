@@ -15,6 +15,7 @@
 
 ## Lojas de Tecidos
 
+* [Caseado Armarinhos](https://www.instagram.com/caseadoarmarinhos/) - Av. Anita Garibaldi, 2860 - Boa Vista, Curitiba - 4130189991
 * [Avimor Tecidos](https://www.avimortecidos.com.br/) - Online - 3432195157
 * [Patchwork Curitiba](https://www.patchworkcuritiba.com.br/) - Online - 41992870404
 * [Casa Belem](https://www.casabelem.com.br/) - Rua Cândido Lopes, 230 Sala 2 - Curitiba/PR - 41995879897

@@ -13,4 +13,5 @@
 
 ```
  git apply --check 0001-meu-commit.patch
+ git apply 0001-meu-commit.patch
  ```

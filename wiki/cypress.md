@@ -9,10 +9,9 @@ published: true
 
 ## Comandos
 
-
-
 ```javascript
 # npm install cypress
+# npm install -D cypres-iframe
 ```
 
 ## Vídeos
